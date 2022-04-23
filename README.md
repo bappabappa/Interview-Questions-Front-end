@@ -1,4 +1,4 @@
-### Table of Contents
+            ### -----------------------------> Table of Contents <-----------------------
 
 | No. | Questions |
 | --- | --------- |
@@ -7,7 +7,7 @@
 
 | 2 | [ What are semantic tags in html give me some examples](#what-are-semantic-tags-in-html-give-me-some-examples)
 
-| 3 | [ What is the purpose of article, div, section, nav, aside](#what-is-the-purpose-of-article,-div,-section,-nav,-aside)
+| 3 | [ What is the purpose of article,div,section,nav,aside](#what-is-the-purpose-of-article,-div,-section,-nav,-aside)
 
 1.  ### What are the differences between html4 and html5
 
@@ -26,7 +26,7 @@
     <div> and <span> - Tells nothing about its content. Examples of semantic elements.
     ```
 
-3.  ### What is the purpose of article,div section, nav, aside
+3.  ### What is the purpose of article,div,section,nav,aside
 
         <article>
         The article element represents a section of content that forms an independent part of a document or site;
