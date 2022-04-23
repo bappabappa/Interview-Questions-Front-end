@@ -3,20 +3,25 @@
 | No. | Questions |
 | --- | --------- |
 
-| 1 | [What are the possible ways to create objects in JavaScript](#what-are-the-possible-ways-to-create-objects-in-javascript) |
-| 2 | [What are the differences between html4 and html5](#what-are-the-differences-between-html4-and-html5) |
+| 1 | [What are the differences between html4 and html5](#what-are-the-differences-between-html4-and-html5)
 
-1.  ### What are the possible ways to create objects in JavaScript
+| 2 | [ What are semantic tags in html give me some examples](#what-are-semantic-tags-in-html-give-me-some-examples)
 
-    There are many ways to create objects in javascript as below
+1.  ### What are the differences between html4 and html5
 
-    1. **Object constructor:**
+```javascript
+ html5 has many new tag which was not present in html4 like audio, video canvas tag etc.
+ Better error handling is introduced in html5.
+```
 
-       The simplest way to create an empty object is using the Object constructor. Currently this approach is not recommended.
+2.  ### What are semantic tags in html give me some examples
 
-       ```javascript
-       var object = new Object();
-       ```
+    A semantic element clearly describes its meaning to both the browser and the developer.
 
-2.  ### What are the differences between html4 and html5
-    html5 has many new tag which was not present in html4 like audio, video canvas tag etc. Better error handling is introduced in html5.
+    Example: header , nav ,section, footer article etc. for example nav has its meaning that indicate navigation section.
+
+    Examples of non-semantic elements:
+
+    ```javascript
+    <div> and <span> - Tells nothing about its content. Examples of semantic elements.
+    ```
