@@ -28,13 +28,17 @@
 
 3.  ### What is the purpose of article,div section, nav, aside
 
-    <article>
-    The article element represents a section of content that forms an independent part of a document or site; for example, a magazine or newspaper article, or a blog entry.
-    <section>
-    Used for "sections" of a web page that have grouped, related content.
-    <aside>
-    Similar to <section>, but for side bars. Hence the name "aside".
-    <div>
-    Used for sections of a page that don't have a more appropriate tag.
-    <nav>
-    represents a section of a page whose purpose is to provide navigation links, either within the current document or to other documents. Common examples of navigation section is menubar.
+        <article>
+        The article element represents a section of content that forms an independent part of a document or site;
+        for example, a magazine or newspaper article, or a blog entry.
+
+        <section>
+        Used for "sections" of a web page that have grouped, related content.
+
+        <aside>
+        Similar to <section>, but for side bars. Hence the name "aside".
+
+        <div>
+         Used for sections of a page that don't have a more appropriate tag.
+        <nav>
+        represents a section of a page whose purpose is to provide navigation links, either within the current document or to other documents. Common examples of navigation section is menubar.
